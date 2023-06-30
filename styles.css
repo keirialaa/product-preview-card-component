@@ -86,7 +86,7 @@ p {
   color: hsl(158, 36%, 37%);
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 480px) {
   p {
     width: 300px;
   }
